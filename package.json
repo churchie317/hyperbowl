@@ -1,0 +1,25 @@
+{
+  "name": "hyperbowl",
+  "version": "0.0.1",
+  "description": "Instant hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yougothack/hyperbowl.git"
+  },
+  "keywords": [
+    "hackathon"
+  ],
+  "author": "Team You Got Hack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yougothack/hyperbowl/issues"
+  },
+  "homepage": "https://github.com/yougothack/hyperbowl#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0"
+  }
+}

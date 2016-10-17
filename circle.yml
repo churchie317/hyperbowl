@@ -1,0 +1,18 @@
+##Core CircleCI settings
+
+machine:
+  timezone:
+    America/Los_Angeles
+  node:
+    version:
+      6.4.0
+
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: hyperbowl-stage
+  development:
+    branch: dev
+    heroku:
+      appname: hyperbowl-dev
