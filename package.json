@@ -51,6 +51,7 @@
     "dotenv": "^2.0.0",
     "express": "4.14.0",
     "lodash": "4.15.0",
+    "node-sass": "^3.10.1",
     "raven-js": "3.6.1",
     "react": "15.3.1",
     "react-dom": "15.3.1",
